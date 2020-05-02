@@ -4,9 +4,9 @@
 
 export const environment = {
   production: false,
-  region: 'your region',
-  userPoolId: 'your user pool id',
-  userPoolWebClientId: 'your client id',
+  region: 'us-east-1',
+  userPoolId: 'us-east-1_csxgH0TNg',
+  userPoolWebClientId: '1m8pfmqkp63l02e0b2k3plkurn',
 };
 
 /*
